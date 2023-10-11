@@ -1,0 +1,14 @@
+1. Ao acordar, desligo o despertador
+2. Apos desligar o despertador, levanto da cama.
+3. Após levantar da cama, vou ao banheiro.
+4. Ao chegar no banheiro lavo meu rosto.
+5. Após lavar o rosto, escovo os dentes.
+6. Após escovar os dentes, vou a cozinha.
+7. Ao chegar na cozinha, pego um copo.
+8. Após pegar o copo, coloco agua.
+9. Após colocar agua, bebo a agua.
+10. Após beber agua, vou ao quarto.
+11. Após chegar ao quarto, seleciono minha roupa de academia.
+12. Após selecionar roupa, troco de roupa.
+13. Após trocar de roupa, saio de casa.
+14. Ao sair de casa, vou a academia.
