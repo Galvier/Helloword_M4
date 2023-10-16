@@ -5,8 +5,7 @@ public class Main {
         aluno.nome = "Juliano";
 
 
-
-        double notaProva1 = aluno.recebeNota(8);
+        double notaProva1 = Math.random() * 101;
         double notaProva2 = aluno.recebeNota(8);
         double notaProva3= aluno.recebeNota(10);
         double notaProva4 = aluno.recebeNota(10);
