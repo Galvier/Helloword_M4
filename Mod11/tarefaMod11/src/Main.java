@@ -6,6 +6,6 @@ public class Main {
         System.out.println(ParteUm.ListaNomes());
 
         System.out.println("*** Parte dois ***");
-        System.out.println(ParteDois.generos);
+        System.out.println(ParteDois.generos());
     }
 }
